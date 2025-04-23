@@ -1,6 +1,11 @@
+---
+layout: single
+title: Optimizing Muscle Retention
+---
+
 # Optimizing Muscle Retention: Identifying High-Protein, Low-Calorie Recipes  
 **By Kenneth Xu**  
-[kennethxu@umich.edu] | [Notebook PDF](link-to-your-pdf)  
+[kennethx@umich.edu] | [Notebook PDF](link-to-your-pdf)  
 
 ---
 
